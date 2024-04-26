@@ -15,8 +15,7 @@ Duration: 6 months (between Jan 2023 and July 2023).
 * LSTM, ANN, GRU, and SimpleRNN models were used to train the models where LSTM outperformed other models based on the error metrics.
 *  The LSTM hyperparameters such as the number of neurons, layers, timesteps, number of engineered features, optimizers, etc,  were iterated to optimize the accuracy of the model and were finally compared with other neural network variants.
 
-## Performance of LSTM Predicted data vs. actual data 
-![](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20LSTM.png)
+## Performance of LSTM Predicted data vs. actual data [](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20LSTM.png)
 
 ## Comparison of LSTM and other models' Performance Metrics 
 ![](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Comaprison%20of%20LSTM%20with%20other%20models%20plot.png)
