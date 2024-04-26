@@ -20,6 +20,7 @@ This is a virtual Hackathon project organized by Optimus AI Labs.
 Duration: (5 days between April 8th and April 12th, 2024).
 
 **Project Scope**
+
 Develop models to forecast energy consumption for buildings, areas, or utilities, as well as predict renewable energy output from sources such as wind turbines or solar panels, considering weather conditions and environmental factors.
 
 **Project Overview**
