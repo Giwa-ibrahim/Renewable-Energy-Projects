@@ -1,15 +1,14 @@
 title: Giwa Ibrahim
-logo: "New Professional pics.jpg" # your photo (or logo) here
+logo: "My Professional Picture.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Junior Data Scientist with less than 1 year of Renewable Energy data experience in analytics, project management, and presentation, and a Bachelor of Technology in Electronic and Electrical Engineering from the Ladoke University of Technology. 
+  Junior Data Scientist with less than 1 year of Renewable Energy data experience in analytics and a Bachelor of Technology in Electronic and Electrical Engineering (EEE) from the Ladoke University of Technology. 
   <br><br>
-  Ranked Top 1% of Electronic and Electrical Engineering Department, 2021/2022 academic session.
+  Ranked Top 1% of EEE Department, 2021/2022 academic session.
   <br><br>
   Ranked Top 5 in the recent Optimus AI Hackathon (April 2024)
-  <br><br>
-  <a href="https://www.linkedin.com/in/ibrahim-giwa-0718a9192/">View My LinkedIn Profile</a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
