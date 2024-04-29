@@ -41,4 +41,7 @@ Develop a User interface model for forecasting energy consumption for buildings,
 ![](/Model%20Deploy%20(1).png)
 ![](/Model%20Deploy%20(2).png)
 
+If you enjoyed what you saw, and want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+    - [LinkedIn](https://www.linkedin.com/in/ibrahim-giwa-0718a9192/)
+    - [Gmail](giwaibrahim98@gmail.com)
 
