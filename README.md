@@ -1,5 +1,3 @@
-# Welcome to Giwa Ibrahim's Portfolio
-
 ## About Me
 I am a recent graduate of Ladoke Akintola University of Technology (LAUTECH), where I studied Electronic and Electrical Engineering. Within one year of experience in the Data Science field, I have undertaken several professional courses covering the basics of Data Analytics and Machine Learning. To date, I have successfully completed two projects related to Renewable Energy, which align with my field of study.
 
