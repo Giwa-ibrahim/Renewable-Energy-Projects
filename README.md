@@ -15,10 +15,8 @@ Duration: 6 months (between Jan 2023 and July 2023).
 * LSTM, ANN, GRU, and SimpleRNN models were used to train the models where LSTM outperformed other models based on the error metrics.
 *  The LSTM hyperparameters such as the number of neurons, layers, timesteps, number of engineered features, optimizers, etc,  were iterated to optimize the accuracy of the model and were finally compared with other neural network variants.
 
-### Performance of LSTM Predicted data vs. actual data 
 ![](/Performance%20of%20LSTM.png)
 
-### Comparison of LSTM and other models' Performance Metrics 
 ![](/Comaprison%20of%20LSTM%20with%20other%20models%20plot.png)
 
 ## [Project 2: Energy Consumption Price Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Energy_Consumption_Price_Model.ipynb)
@@ -37,10 +35,10 @@ Develop a User interface model for forecasting energy consumption for buildings,
 *  Trained the dataset with the Random Forest (RF) Regression model which involves experimenting with various Machine Learning (ML) models including  LSTM, Random Forest, XGBoost, Gradient Boost, and AdaBoost, but RF model produced the least error metric with a Root Mean Square Error (RMSE) of 3.301.
 *  The model was deployed using Streamlit library to ensure an easy access user interface as shown below.
 
-### Performance of Energy Consumption's Predicted and Actual price
-![alt text](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20Energy%20Consuption%20Predicted%20and%20actual%20price.png)
+![](/Performance%20of%20Energy%20Consuption%20Predicted%20and%20actual%20price.png)
 
 ### The User Interface Model Testing
 ![](/Model%20Deploy%20(1).png)
 ![](/Model%20Deploy%20(2).png)
+
 
