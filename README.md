@@ -17,7 +17,7 @@ Duration: 6 months (between Jan 2023 and July 2023).
 
 ![LSTM Performance](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20LSTM.png?raw=true)
 
-![Comparison of LSTM with other models](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Comaprison%20of%20LSTM%20with%20other%20models%20plot.png)
+![Comparison of LSTM with other models](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Comaprison%20of%20LSTM%20with%20other%20models%20plot.png?raw=true)
 
 ## [Project 2: Energy Consumption Price Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Energy_Consumption_Price_Model.ipynb)
 
@@ -35,11 +35,11 @@ Develop a User interface model for forecasting energy consumption for buildings,
 *  Trained the dataset with the Random Forest (RF) Regression model which involves experimenting with various Machine Learning (ML) models including  LSTM, Random Forest, XGBoost, Gradient Boost, and AdaBoost, but RF model produced the least error metric with a Root Mean Square Error (RMSE) of 3.301.
 *  The model was deployed using Streamlit library to ensure an easy access user interface as shown below.
 
-![Performance of the Energy Consumption Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20Energy%20Consuption%20Predicted%20and%20actual%20price.png)
+![Performance of the Energy Consumption Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20Energy%20Consuption%20Predicted%20and%20actual%20price.png?raw=true)
 
 ### The User Interface Model Testing
-![Model Testing Phase 1](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Model%20Deploy%20(1).png)
-![Model Testing Phase 2](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Model%20Deploy%20(2).png)
+![Model Testing Phase 1](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Model%20Deploy%20(1).png?raw=true)
+![Model Testing Phase 2](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Model%20Deploy%20(2).png?raw=true)
 
 If you enjoyed what you saw, and want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/ibrahim-giwa-0718a9192/)
