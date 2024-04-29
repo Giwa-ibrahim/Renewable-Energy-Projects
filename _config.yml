@@ -4,8 +4,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   Junior Data Scientist with less than 1 year of Renewable Energy data experience
   <br><br>
   Ranked Top 5 in the recent Optimus AI Hackathon (April 2024)
-  
-remote_theme: pages-themes/slate
-plugins:
-- jekyll-remote-theme
-
+show_downloads: true
+theme: jekyll-theme-minimal
