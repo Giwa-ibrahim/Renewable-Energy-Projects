@@ -65,10 +65,10 @@ Design and simulate a predictive maintenance model for a 60 MVA power transforme
 
 **Project Overview**
 
-* Data was collected from one of the 60MVA Power transformers at Akangba Transmission Substation (ATS) and contained 3 years (2021-2023) of breakdown and Preventive maintenance dataset.
-* The preprocessing stage involves feature engineering where some necessary features were computed in order to derive the target variable in the form of binary classification using the mean and standard deviation of some features as a threshold.
-* Tree-based models (such as RF, XGBoost, lightGBT, AdaBoost), and ANN models were used to train the models, which they all had the same accuracy (97%) but the RF classifier model was preferred because it outperformed other models based on its lesser computational time and minimal hyperparameter tuning.
-*  The RF hyperparameters such as the number of estimators, Minimum Samples Split, Minimum Samples Leaf, Maximum Features, Maximum Depth, and, Bootstrap were tuned using the Random Search method to optimize the accuracy of the model and were finally compared with other tree-based and ANN model.
+* Data was collected from one of the 60MVA power transformers at Akangba Transmission Substation (ATS) and contained three years (2021-2023) of breakdown and preventive maintenance datasets.
+* The preprocessing stage involved feature engineering, where necessary features were computed to derive the target variable in the form of binary classification using the mean and standard deviation of some features as a threshold.
+* Tree-based models such as Random Forest (RF), XGBoost, LightGBM, and AdaBoost, as well as Artificial Neural Network (ANN) models, were used to train the models. Although all models achieved the same accuracy (97%), the RF classifier model was preferred because it outperformed the others based on its shorter computational time and minimal hyperparameter tuning.
+* The RF hyperparameters, such as the number of estimators, minimum samples split, minimum samples leaf, maximum features, maximum depth, and bootstrap, were tuned using the Random Search method to optimize the model's accuracy. The optimized RF model was then compared with other tree-based and ANN models.
 
 ### Performance of the RF Model
 
