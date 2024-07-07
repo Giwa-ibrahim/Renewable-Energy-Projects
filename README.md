@@ -12,7 +12,7 @@ Duration: 6 months (between Jan 2023 and July 2023).
 
 **Project Goal**
 
-Develop and simulate an efficient machine learning-based wind speed prediction model for renewable energy solutions to power telecommunication base-station in Nigeria. 
+Develop and simulate an efficient machine learning-based wind speed prediction model for renewable energy solutions to power telecommunication base stations in Nigeria. 
 
 **Project Overview**
 
