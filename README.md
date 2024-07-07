@@ -49,6 +49,7 @@ Develop a User interface model for forecasting energy consumption for buildings,
 This is a master's project I collaborated with my supervisor during my Mandatory one-year service at Bells University, Ota.
 
 Duration: 2 months (between June and July 2024).
+
 **Project Goal**
 Design and simulate a predictive maintenance model for a 60 MVA power transformer at the Akangba 330kV/132kV transmission sub-station
 
@@ -60,9 +61,9 @@ Design and simulate a predictive maintenance model for a 60 MVA power transforme
 
 ### Performance of the RF Model
 
-![](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20LSTM.png?raw=true)
+![Confusion Matrix of the RF Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Confusion%20matrix%20report.png?raw=true)
 
-![Comparison of LSTM with other models](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Comaprison%20of%20LSTM%20with%20other%20models%20plot.png?raw=true)
+![Predicted Maintenance with Date](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Predicted%20PT%20Maintenance.png?raw=true)
 
 
 In case you want to reach out to me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
