@@ -63,7 +63,7 @@ Design and simulate a predictive maintenance model for a 60 MVA power transforme
 
 * Data was collected from one of the 60MVA Power transformers at Akangba Transmission Substation (ATS) and contained 3 years (2021-2023) of breakdown and Preventive maintenance dataset.
 * The preprocessing stage involves feature engineering where some necessary features were computed in order to derive the target variable in the form of binary classification using the mean and standard deviation of some features as a threshold.
-* tree-based models (such as RF, XGBoost, lightGBT, AdaBoost), and ANN models were used to train the models, which they all had the same accuracy (97%) but the RF model was preferred because it outperformed other models based on its lesser computational time and minimal hyperparameter tuning.
+* Tree-based models (such as RF, XGBoost, lightGBT, AdaBoost), and ANN models were used to train the models, which they all had the same accuracy (97%) but the RF classifier model was preferred because it outperformed other models based on its lesser computational time and minimal hyperparameter tuning.
 *  The RF hyperparameters such as the number of estimators, Minimum Samples Split, Minimum Samples Leaf, Maximum Features, Maximum Depth, and, Bootstrap were tuned using the Random Search method to optimize the accuracy of the model and were finally compared with other tree-based and ANN model.
 
 ### Performance of the RF Model
