@@ -55,7 +55,7 @@ Develop a User interface model for forecasting energy consumption for buildings,
 
 ## [Project 3: Predictive Power Transformer Maintenance using Random Forest Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Predictive_Transformer_Maintenance.ipynb)
 
-This is a master's project I collaborated with my supervisor during my Mandatory one-year service at Bells University, Ota.
+This is a master's project I volunteered for during my Mandatory one-year service at Bells University, Ota.
 
 Duration: 2 months (between June and July 2024).
 
