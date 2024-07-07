@@ -10,6 +10,10 @@ This was a project I did for my Undergraduate Final year project.
 
 Duration: 6 months (between Jan 2023 and July 2023).
 
+**Project Goal**
+
+Develop an efficient machine learning-based wind speed prediction model for renewable energy solutions to power telecommunication base-station in Nigeria. 
+
 **Project Overview**
 
 * Data was collected from the Nigerian Meteorological Agency (NIMET) and contained 10 years (2007-2018) of wind speed dataset from Kano state, Nigeria.
