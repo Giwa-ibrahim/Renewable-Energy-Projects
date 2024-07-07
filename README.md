@@ -1,5 +1,5 @@
 ## About Me
-I am a recent graduate of Ladoke Akintola University of Technology (LAUTECH), where I studied Electronic and Electrical Engineering. Within one year of experience in the Data Science field, I have undertaken several professional courses covering the basics of Data Analytics and Machine Learning. To date, I have successfully completed two projects related to Renewable Energy, which align with my field of study.
+I am a recent graduate of Ladoke Akintola University of Technology (LAUTECH), where I studied Electronic and Electrical Engineering. Within 1-2 years of experience in the Data Science field, I have undertaken several professional courses covering the basics of Data Analytics and Machine Learning. To date, I have successfully completed three projects related to Renewable Energy, which align with my field of study.
 
 ## [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
 
@@ -44,7 +44,28 @@ Develop a User interface model for forecasting energy consumption for buildings,
 ![Model Testing Phase 1](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Model%20Deploy%20(1).png?raw=true)
 ![Model Testing Phase 2](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Model%20Deploy%20(2).png?raw=true)
 
-If you enjoyed what you saw, and want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+## [Project 3: Predictive Power Transformer Maintenance using Random Forest Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Predictive_Transformer_Maintenance.ipynb)
+
+This is a master's project I collaborated with my supervisor during my Mandatory one-year service at Bells University, Ota.
+
+Duration: 2 months (between June and July 2024).
+**Project Goal**
+Design and simulate a predictive maintenance model for a 60 MVA power transformer at the Akangba 330kV/132kV transmission sub-station
+
+**Project Overview**
+* Data was collected from one of the 60MVA Power transformers at Akangba Transmission Substation (ATS) and contained 3 years (2021-2023) of breakdown and Preventive maintenance dataset.
+* The preprocessing stage involves feature engineering where some necessary features were computed in order to derive the target variable in the form of binary classification using the mean and standard deviation of some features as a threshold.
+* tree-based models (such as RF, XGBoost, lightGBT, AdaBoost), and ANN models were used to train the models, which they all had the same accuracy (97%) but the RF model was preferred because it outperformed other models based on its lesser computational time and minimal hyperparameter tuning.
+*  The RF hyperparameters such as the number of estimators, Minimum Samples Split, Minimum Samples Leaf, Maximum Features, Maximum Depth, and, Bootstrap were tuned using the Random Search method to optimize the accuracy of the model and were finally compared with other tree-based and ANN model.
+
+### Performance of the RF Model
+
+![](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Performance%20of%20LSTM.png?raw=true)
+
+![Comparison of LSTM with other models](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Comaprison%20of%20LSTM%20with%20other%20models%20plot.png?raw=true)
+
+
+In case you want to reach out to me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/ibrahim-giwa-0718a9192/)
     - [Gmail](giwaibrahim98@gmail.com)
 
