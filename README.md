@@ -1,5 +1,8 @@
 ## About Me
-I am a recent graduate of Ladoke Akintola University of Technology (LAUTECH), where I studied Electronic and Electrical Engineering. Within 1-2 years of experience in the Data Science field, I have undertaken several professional courses covering the basics of Data Analytics and Machine Learning. To date, I have successfully completed three projects related to Renewable Energy, which align with my field of study.
+
+I am a recent graduate of Ladoke Akintola University of Technology (LAUTECH), where I studied Electronic and Electrical Engineering. With 1-2 years of experience in the Data Science field, I have undertaken several professional courses covering the basics of Data Analytics and Machine Learning. Presently, I am working as a research assistant at Bells University, Ota, due to my mandatory one-year youth service, which will be completed around September 2024.
+
+My research interest lies in the use of Machine Learning and Embedded Systems technologies to solve energy-related problems. To date, I have successfully completed three projects related to renewable energy. I am seeking postgraduate scholarships to further enhance my knowledge and, in the long run, fulfill my potential.
 
 ## [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
 
