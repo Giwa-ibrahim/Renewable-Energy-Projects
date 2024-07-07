@@ -8,6 +8,7 @@ This was a project I did for my Undergraduate Final year project.
 Duration: 6 months (between Jan 2023 and July 2023).
 
 **Project Overview**
+
 * Data was collected from the Nigerian Meteorological Agency (NIMET) and contained 10 years (2007-2018) of wind speed dataset from Kano state, Nigeria.
 * Preprocessing steps such as Data cleaning and feature engineering were done.
 * LSTM, ANN, GRU, and SimpleRNN models were used to train the models where LSTM outperformed other models based on the error metrics.
@@ -31,6 +32,7 @@ Duration: 5 days (between April 8th and April 12th, 2024).
 Develop a User interface model for forecasting energy consumption for buildings, areas, or utilities, as well as predicting renewable energy output from sources such as wind turbines or solar panels, considering weather conditions and environmental factors.
 
 **Project Overview**
+
 * The dataset was sourced from Kaggle, which comprises two extensive sets spanning four years (2015-2018). It includes Consumption and Generation data, and Weather Features data from the five largest cities in Spain.
 * Preprocessing techniques, such as removal of unnecessary columns and missing values, renaming of columns, merging of the both datasets via the date-time columns, checking for outliers, and feature engineering by transforming the date-time into hour, day, month and year columns.
 *  Trained the dataset with the Random Forest (RF) Regression model which involves experimenting with various Machine Learning (ML) models including  LSTM, Random Forest, XGBoost, Gradient Boost, and AdaBoost, but RF model produced the least error metric with a Root Mean Square Error (RMSE) of 3.301.
@@ -51,9 +53,11 @@ This is a master's project I collaborated with my supervisor during my Mandatory
 Duration: 2 months (between June and July 2024).
 
 **Project Goal**
+
 Design and simulate a predictive maintenance model for a 60 MVA power transformer at the Akangba 330kV/132kV transmission sub-station
 
 **Project Overview**
+
 * Data was collected from one of the 60MVA Power transformers at Akangba Transmission Substation (ATS) and contained 3 years (2021-2023) of breakdown and Preventive maintenance dataset.
 * The preprocessing stage involves feature engineering where some necessary features were computed in order to derive the target variable in the form of binary classification using the mean and standard deviation of some features as a threshold.
 * tree-based models (such as RF, XGBoost, lightGBT, AdaBoost), and ANN models were used to train the models, which they all had the same accuracy (97%) but the RF model was preferred because it outperformed other models based on its lesser computational time and minimal hyperparameter tuning.
