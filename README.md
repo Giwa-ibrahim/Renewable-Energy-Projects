@@ -65,7 +65,7 @@ Design and simulate a predictive maintenance model for a 60 MVA power transforme
 
 **Project Overview**
 
-* Data was collected from one of the 60MVA power transformers at Akangba Transmission Substation (ATS) and contained three years (2021-2023) of breakdown and preventive maintenance datasets.
+* Data was collected from one of the 60MVA power transformers at Akangba Transmission Substation, located in Lagos State, Nigeria, and comprised three years (2021-2023) of breakdown and preventive maintenance datasets
 * The preprocessing stage involved feature engineering, where necessary features were computed to derive the target variable in the form of binary classification using the mean and standard deviation of some features as a threshold.
 * Tree-based models such as Random Forest (RF), XGBoost, LightGBM, and AdaBoost, as well as Artificial Neural Network (ANN) models, were used to train the models. Although all models achieved the same accuracy (97%), the RF classifier model was preferred because it outperformed the others based on its shorter computational time and minimal hyperparameter tuning.
 * The RF hyperparameters, such as the number of estimators, minimum samples split, minimum samples leaf, maximum features, maximum depth, and bootstrap, were tuned using the Random Search method to optimize the model's accuracy. The optimized RF model was then compared with other tree-based and ANN models.
