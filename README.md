@@ -6,7 +6,7 @@ My research interest lies in the use of Machine Learning and Embedded Systems te
 
 ## [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
 
-This was a project I did for my Undergraduate Final year project.
+This was my undergraduate final-year project.
 
 Duration: 6 months (between Jan 2023 and July 2023).
 
