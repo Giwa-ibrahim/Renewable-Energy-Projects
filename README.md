@@ -9,6 +9,7 @@ A machine learning engineer who is passionate about developing and deploying AI 
 👯 I’m looking to collaborate on open-source projects and research initiatives that aim to enhance energy efficiency and sustainability.
 
 📫 How to reach me: giwaibrahim98@gmail.com
+                    [Linkedin](https://linkedin.com/in/ibrahim-giwa-0718a9192/)
 
 📄 Know about my experiences: [Link to CV](https://docs.google.com/document/d/1QDKfrM4hUhAKv8vSEBWxt2xDELO7u-5f9ZakU90RUiE/edit?usp=sharing)
 
