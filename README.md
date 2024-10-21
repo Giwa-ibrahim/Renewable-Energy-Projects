@@ -4,7 +4,7 @@ A machine learning engineer who is passionate about developing and deploying AI 
 
 🔭 I’m currently working as a research assistant at Bells University of Technology, focusing on projects related to renewable energy and power systems.
 
-🌱 I’m currently learning advanced machine learning techniques, programming languages like Python and MATLAB, while honing my skills in renewable energy, power systems, and power electronics.
+🌱  I’m currently learning advanced machine-learning techniques through an internship with @Optimus AI Labs, while honing my skills in Python, MATLAB, data analysis, neural networks, and model deployment.
 
 👯 I’m looking to collaborate on open-source projects and research initiatives that aim to enhance energy efficiency and sustainability.
 
@@ -13,6 +13,8 @@ A machine learning engineer who is passionate about developing and deploying AI 
 📄 Know about my experiences: [Link to CV](https://docs.google.com/document/d/1QDKfrM4hUhAKv8vSEBWxt2xDELO7u-5f9ZakU90RUiE/edit?usp=sharing)
 
 ⚡ Fun fact: When I'm not working on projects, I enjoy exploring new technologies, conducting research, and traveling to meet new people and gain diverse experiences.
+
+# Few of the Projects, I have done are:
 
 ## [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
 
