@@ -10,7 +10,7 @@ A machine learning engineer who is passionate about developing and deploying AI 
 
 📫 How to reach me: giwaibrahim98@gmail.com
 
-📄 Know about my experiences: [Link to CV]([your-link-here](https://docs.google.com/document/d/1QDKfrM4hUhAKv8vSEBWxt2xDELO7u-5f9ZakU90RUiE/edit?usp=sharing))
+📄 Know about my experiences: [Link to CV](https://docs.google.com/document/d/1QDKfrM4hUhAKv8vSEBWxt2xDELO7u-5f9ZakU90RUiE/edit?usp=sharing)
 
 ⚡ Fun fact: When I'm not working on projects, I enjoy exploring new technologies, conducting research, and traveling to meet new people and gain diverse experiences.
 
