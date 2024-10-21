@@ -1,8 +1,18 @@
-## About Me
+Hi there 👋, I'm Ibrahim Giwa
 
-I am a recent graduate of Ladoke Akintola University of Technology (LAUTECH), where I studied Electronic and Electrical Engineering. With 1-2 years of experience in the Data Science field, I have undertaken several professional courses covering the basics of Data Analytics and Machine Learning. Presently, I am working as a research assistant at Bells University, Ota, due to my mandatory one-year youth service, which will be completed around September 2024.
+A machine learning engineer who is passionate about developing and deploying AI models that address energy-related challenges and contribute to a sustainable future. I strive to leverage innovative technologies to optimize energy systems and enhance efficiency across various applications.
 
-My research interest lies in the use of Machine Learning and Embedded Systems technologies to solve energy-related problems. To date, I have successfully completed three projects related to renewable energy. I am seeking postgraduate scholarships to further enhance my knowledge and, in the long run, fulfill my potential.
+🔭 I’m currently working as a research assistant at Bells University of Technology, focusing on projects related to renewable energy and power systems.
+
+🌱 I’m currently learning advanced machine learning techniques, programming languages like Python and MATLAB, while honing my skills in renewable energy, power systems, and power electronics.
+
+👯 I’m looking to collaborate on open-source projects and research initiatives that aim to enhance energy efficiency and sustainability.
+
+📫 How to reach me: giwaibrahim98@gmail.com
+
+📄 Know about my experiences: [Link to CV]([your-link-here](https://docs.google.com/document/d/1QDKfrM4hUhAKv8vSEBWxt2xDELO7u-5f9ZakU90RUiE/edit?usp=sharing))
+
+⚡ Fun fact: When I'm not working on projects, I enjoy exploring new technologies, conducting research, and traveling to meet new people and gain diverse experiences.
 
 ## [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
 
