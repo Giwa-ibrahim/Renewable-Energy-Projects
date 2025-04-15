@@ -1,23 +1,11 @@
-Hi there 👋, I'm Ibrahim Giwa
+## This repository highlights my Journey from Jan 2023 till October 2024.
+While learning ML, I have developed AI models for projects focused on renewable energy and power systems that address energy-related challenges and contribute to a sustainable future. 
 
-A machine learning engineer who is passionate about developing and deploying AI models that address energy-related challenges and contribute to a sustainable future. I strive to leverage innovative technologies to optimize energy systems and enhance efficiency across various applications.
+**ML tools used are:** Pandas, Numpy, Matplotlib for visualization, Tree-based models, Neural network models: like LSTM and other RNN models, Streamlit for model deployment.
 
-🔭 I’m currently working as a research assistant at Bells University of Technology, focusing on projects related to renewable energy and power systems.
+## Few of the Projects I did were:
 
-🌱  I’m currently learning advanced machine-learning techniques through an internship with @Optimus AI Labs, while honing my skills in Python, MATLAB, data analysis, neural networks, and model deployment.
-
-👯 I’m looking to collaborate on open-source projects and research initiatives that aim to enhance energy efficiency and sustainability.
-
-📫 How to reach me: giwaibrahim98@gmail.com
-                    [Linkedin](https://linkedin.com/in/ibrahim-giwa-0718a9192/)
-
-📄 Know about my experiences: [Link to CV](https://docs.google.com/document/d/1QDKfrM4hUhAKv8vSEBWxt2xDELO7u-5f9ZakU90RUiE/edit?usp=sharing)
-
-⚡ Fun fact: When I'm not working on projects, I enjoy exploring new technologies, conducting research, and traveling to meet new people and gain diverse experiences.
-
-# Few of the Projects, I have done are:
-
-## [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
+### [Project 1: Wind Speed Prediction using LSTM Model](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Wind_Speed_Prediction_Model.ipynb)
 
 This was my undergraduate final-year project.
 
