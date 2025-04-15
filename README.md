@@ -78,7 +78,7 @@ Design and simulate a predictive maintenance model for a 60 MVA power transforme
 ![Predicted Maintenance with Date](https://github.com/Giwa-ibrahim/Giwa_Portfolio/blob/main/Predicted%20PT%20Maintenance.png?raw=true)
 
 
-In case you want to reach out to me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+In case you want to reach out to me about the portfolio, work opportunities, or collaboration, feel free to contact me at:
     - [LinkedIn](https://www.linkedin.com/in/ibrahim-giwa-0718a9192/)
     - [Gmail](giwaibrahim98@gmail.com)
 
